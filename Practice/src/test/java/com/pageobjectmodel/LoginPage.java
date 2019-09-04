@@ -19,6 +19,7 @@ public WebElement getLogin() {
 
 }
 
+//adding a comment
 @FindBy(xpath="//input[@id='pass']")
  private WebElement password;
 private WebElement getPassword() {
